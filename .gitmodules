@@ -1,0 +1,3 @@
+[submodule "dolphin"]
+	path = dolphin
+	url = https://github.com/pdeblois/dolphin.git
